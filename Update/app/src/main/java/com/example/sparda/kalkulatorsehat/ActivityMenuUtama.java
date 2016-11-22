@@ -75,7 +75,7 @@ public class ActivityMenuUtama extends AppCompatActivity {
 
                 // TODO Auto-generated method stub
 
-                Intent i =new Intent(getApplicationContext(),Activity_Riwayat.class);
+                Intent i =new Intent(getApplicationContext(),Activity_.class);
 
                 startActivity(i);
 
